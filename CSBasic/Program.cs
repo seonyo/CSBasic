@@ -11,6 +11,7 @@ namespace CSBasic       //패키지 역할을 하는 게 namespace
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Woirld");
+            Console.WriteLine("Hello Woirld");
         }
     }
 }
